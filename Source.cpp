@@ -5,7 +5,7 @@ int main()
 	int a;
 	int b;
 	int result;
-	stringg* p;
+	int* p;
 	cin >> a;
 	cin >> b;
 	result = a + b;
