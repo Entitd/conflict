@@ -12,4 +12,5 @@ int main()
 	cout << result;
 	p = &result;
 	cout << p;
+	cout << "2 commit :)" << endl;
 }
