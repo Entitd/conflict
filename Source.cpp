@@ -5,7 +5,7 @@ int main()
 	int a;
 	int b;
 	int result;
-	int* p;
+	asghlk* p;
 	cin >> a;
 	cin >> b;
 	result = a + b;
